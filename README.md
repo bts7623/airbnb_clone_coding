@@ -64,5 +64,11 @@ Cloning Airbnb with Python, Django, Tailwind and more...
 
 - GitHub에 Repository 생성해서 올리는데, 니콜라스는 다 명령어로 하네 흠..
 - git init 하고 .gitignore 파일 생성해서 commit
+- 우선 내 터미널에서는 명령어가 작동안해서 Github Desktop으로 진행
 - 참고 링크
   - [gitignore python](https://github.com/github/gitignore/blob/master/Python.gitignore)
+
+#### #1.4 Testing the Bubble
+
+- Project에서 django를 이용하기 위해서는 우선적으로 pipenv shell을 통해서 bubble에 들어가주어야 한다.
+- 항상 pipenv shell 후 django-admin으로 확인한다.
